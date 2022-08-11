@@ -3,7 +3,7 @@ Reverse Shell Backdoor made with Python2 using socket
 Made for educational porpuse 
 Reverse Shell Backdoor made with Python2 using Socket
 TCp/Ip Server
-Can use The TCPip server or use Netcat
+Can use The TCP/Ip server or use Netcat
 Commands of the Shell:
 "cd"
 "pwd"
